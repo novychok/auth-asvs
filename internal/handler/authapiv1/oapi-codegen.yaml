@@ -1,0 +1,6 @@
+package: authapiv1
+generate:
+  chi-server: true
+  models: true
+  embedded-spec: true
+output: ../../../pkg/authApi/v1/v1.gen.go
